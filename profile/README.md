@@ -4,7 +4,7 @@
 
 SazM builds **fast, scalable, and SEO-optimized web platforms** for modern businesses.
 
-With **20+ years of engineering experience** and **1000+ production projects delivered**, SazM focuses on building systems that are **reliable, maintainable, and built for long-term growth.**
+With **20+ years of engineering experience** and **1000+ production projects delivered**, SazM focuses on building systems that are **reliable, maintainable, and designed for long-term growth.**
 
 🌐 https://sazm.in
 📧 [contact@sazm.in](mailto:contact@sazm.in)
@@ -17,23 +17,45 @@ Remote • Global
 
 ### Web Development
 
-Building scalable websites, custom web applications, and modern headless platforms using reliable architectures.
+Designing and building scalable websites, web applications, and modern headless platforms.
 
 ### Website Maintenance
 
-Long-term maintenance, performance optimization, security updates, and continuous improvements to keep platforms running smoothly.
+Providing long-term maintenance, security updates, performance optimization, and ongoing improvements.
 
-### E-Commerce Development
+### Headless CMS Development
 
-Developing high-performance e-commerce platforms designed for scalability and reliability.
+Building flexible content platforms using modern headless CMS architectures.
 
 ### AI Integration
 
-Enhancing web systems with AI capabilities such as intelligent features, automation pipelines, and smart workflows.
+Enhancing web systems with intelligent features and AI-powered capabilities.
 
 ### Automation
 
-Automating business processes, workflows, and system operations to improve efficiency.
+Automating business processes and workflows to improve efficiency and reduce manual operations.
+
+---
+
+# Open Source Projects
+
+### Next.js SEO Starter
+
+SEO-optimized Next.js starter template.
+
+https://github.com/sazmco/nextjs-seo-starter
+
+### Payload Next.js Starter
+
+Full-stack Payload CMS + Next.js starter template.
+
+https://github.com/sazmco/payload-nextjs-starter
+
+### SazM Templates
+
+Modern dashboard and landing page templates built with Next.js and Tailwind CSS.
+
+https://github.com/sazmco/sazm-templates
 
 ---
 
@@ -44,31 +66,13 @@ Automating business processes, workflows, and system operations to improve effic
 Next.js
 React
 Tailwind CSS
-HTML5
-CSS3
-JavaScript
+TypeScript
 
 ### Backend
 
 Node.js
 PHP
-REST APIs
-
-### CMS Platforms
-
 Payload CMS
-WordPress
-Drupal
-Joomla
-
-### E-Commerce Platforms
-
-WooCommerce
-Magento
-OpenCart
-PrestaShop
-Shopify
-BigCommerce
 
 ### Databases
 
@@ -84,37 +88,7 @@ Cloudflare
 Docker
 Google Cloud
 Nginx
-Apache
 Vercel
-
----
-
-# Open Source Projects
-
-### Next.js SEO Starter
-
-SEO-optimized Next.js starter template for modern websites.
-
-### Payload Next.js Starter
-
-Production-ready **Payload CMS + Next.js full-stack starter template**.
-
-### SazM Templates
-
-Modern dashboard and landing page templates built with **Next.js and Tailwind CSS**.
-
----
-
-# Focus Areas
-
-SazM builds and maintains production-grade platforms across industries including:
-
-E-Commerce
-Healthcare
-Real Estate
-Education
-Media
-Business Platforms
 
 ---
 
