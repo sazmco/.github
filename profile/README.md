@@ -1,10 +1,10 @@
 # SazM
 
-**AI Integration • Business Automation • Web Development • Long-Term Maintenance**
+**Web Development • Website Maintenance • AI Integration • Automation**
 
-SazM builds **intelligent, automated, and scalable web systems** for modern businesses.
+SazM builds **fast, scalable, and SEO-optimized web platforms** for modern businesses.
 
-With **20+ years of engineering experience** and **1000+ production projects delivered**, SazM focuses on building platforms that are **fast, reliable, maintainable, and built for long-term growth.**
+With **20+ years of engineering experience** and **1000+ production projects delivered**, SazM focuses on building systems that are **reliable, maintainable, and built for long-term growth.**
 
 🌐 https://sazm.in
 📧 [contact@sazm.in](mailto:contact@sazm.in)
@@ -15,25 +15,25 @@ Remote • Global
 
 # Services
 
-### AI Integration
-
-Integrating AI into real-world systems including automation pipelines, intelligent workflows, and AI-powered business tools.
-
-### Business Automation
-
-Automating internal processes, workflows, and operations to reduce manual work and improve efficiency.
-
 ### Web Development
 
-Building scalable web platforms, custom web applications, and modern headless systems.
+Building scalable websites, custom web applications, and modern headless platforms using reliable architectures.
+
+### Website Maintenance
+
+Long-term maintenance, performance optimization, security updates, and continuous improvements to keep platforms running smoothly.
 
 ### E-Commerce Development
 
-Developing high-performance e-commerce platforms with scalable architecture.
+Developing high-performance e-commerce platforms designed for scalability and reliability.
 
-### Long-Term Maintenance
+### AI Integration
 
-Ongoing maintenance, optimization, and upgrades to ensure systems remain secure, fast, and reliable.
+Enhancing web systems with AI capabilities such as intelligent features, automation pipelines, and smart workflows.
+
+### Automation
+
+Automating business processes, workflows, and system operations to improve efficiency.
 
 ---
 
@@ -107,7 +107,7 @@ Modern dashboard and landing page templates built with **Next.js and Tailwind CS
 
 # Focus Areas
 
-SazM builds and maintains production-grade systems across industries including:
+SazM builds and maintains production-grade platforms across industries including:
 
 E-Commerce
 Healthcare
