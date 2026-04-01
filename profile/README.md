@@ -1,13 +1,15 @@
 # SazM
 
-**Web Development • Website Maintenance • AI Integration • Automation**
+**Web Development • Maintenance & Support • AI Solutions • Automation**
 
-SazM builds **fast, scalable, and SEO-optimized web platforms** for modern businesses.
+Websites that grow your business.
 
-With **20+ years of engineering experience** and **1000+ production projects delivered**, SazM focuses on building systems that are **reliable, maintainable, and designed for long-term growth.**
+SazM builds fast, scalable web platforms that are reliable, maintainable, and designed for long-term growth.
 
-🌐 https://sazm.in
-📧 [contact@sazm.in](mailto:contact@sazm.in)
+With **20+ years of engineering experience** and **1,000+ production deployments**, the focus is on systems that don’t just launch — but continue to perform.
+
+🌐 https://sazm.in  
+📧 contact@sazm.in  
 
 Remote • Global
 
@@ -17,98 +19,77 @@ Remote • Global
 
 ### Web Development
 
-Designing and building scalable websites, web applications, and modern headless platforms.
+Custom websites and web applications built for performance, scalability, and business growth.
 
-### Website Maintenance
+### Maintenance & Support
 
-Providing long-term maintenance, security updates, performance optimization, and ongoing improvements.
+Ongoing updates, monitoring, and improvements to keep your platform stable, secure, and reliable.
 
 ### Headless CMS Development
 
-Building flexible content platforms using modern headless CMS architectures.
+Flexible content platforms built with modern headless architecture for long-term control and scalability.
 
-### AI Integration
+### AI Solutions
 
-Enhancing web systems with intelligent features and AI-powered capabilities.
+AI-powered features and systems that enhance functionality and reduce manual effort.
 
-### Automation
+### Business Automation
 
-Automating business processes and workflows to improve efficiency and reduce manual operations.
+Automation that streamlines workflows, improves efficiency, and supports business operations.
 
 ---
 
 # Open Source Projects
 
-### Next.js SEO Starter
-
-SEO-optimized Next.js starter template.
-
+### Next.js SEO Starter  
+SEO-optimized Next.js starter template  
 https://github.com/sazmco/nextjs-seo-starter
 
-### Payload Next.js Starter
-
-Full-stack Payload CMS + Next.js starter template.
-
+### Payload Next.js Starter  
+Full-stack Payload CMS + Next.js starter template  
 https://github.com/sazmco/payload-nextjs-starter
 
-### SazM Templates
-
-Modern dashboard and landing page templates built with Next.js and Tailwind CSS.
-
+### SazM Templates  
+Modern dashboard and landing templates  
 https://github.com/sazmco/sazm-templates
 
 ---
 
 # Technology Stack
 
-### Frontend
+### Frontend  
+Next.js • React • Tailwind CSS • TypeScript  
 
-Next.js
-React
-Tailwind CSS
-TypeScript
+### Backend  
+Node.js • PHP • Payload CMS  
 
-### Backend
+### Databases  
+PostgreSQL • MySQL • MongoDB • Redis  
 
-Node.js
-PHP
-Payload CMS
-
-### Databases
-
-PostgreSQL
-MySQL
-MongoDB
-Redis
-
-### Infrastructure
-
-AWS
-Cloudflare
-Docker
-Google Cloud
-Nginx
-Vercel
+### Infrastructure  
+AWS • Cloudflare • Docker • Google Cloud • Nginx • Vercel  
 
 ---
 
 # Engineering Principles
 
-SEO-first development
-performance-driven architecture
-scalable system design
-secure authentication workflows
-automation-driven operations
-long-term maintainability
+- Performance-first architecture  
+- Scalable system design  
+- Secure and stable systems  
+- Automation-driven workflows  
+- Long-term maintainability  
 
 ---
 
-# Contact
+# Work With SazM
 
-🌐 https://sazm.in
-📧 [contact@sazm.in](mailto:contact@sazm.in)
+If your website is slow, unstable, or hard to scale — it can be fixed properly.
+
+👉 https://sazm.in
+
+📧 contact@sazm.in
 
 ---
 
-**SazM**
-Web Development • Website Maintenance • AI Integration • Automation
+**SazM**  
+Web Development • Maintenance & Support • AI Solutions • Automation
