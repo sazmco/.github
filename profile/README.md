@@ -1,95 +1,123 @@
 # SazM
 
-**Web Development • Maintenance & Support • AI Solutions • Automation**
+Software engineering, platform modernization, and long-term technology partnerships.
 
-Websites that grow your business.
+SazM helps organizations build, modernize, optimize, and maintain software platforms that support growth, performance, and long-term sustainability.
 
-SazM builds fast, scalable web platforms that are reliable, maintainable, and designed for long-term growth.
+Founded by a software engineer with 20+ years of experience delivering production systems across healthcare, e-commerce, education, media, real estate, nonprofit, and business services industries.
 
-With **20+ years of engineering experience** and **1,000+ production deployments**, the focus is on systems that don’t just launch — but continue to perform.
-
-🌐 https://sazm.in  
-📧 contact@sazm.in  
-
-Remote • Global
+🌐 https://sazm.in
 
 ---
 
-# Services
+## What We Do
 
-### Web Development
+### Custom Software Development
 
-Custom websites and web applications built for performance, scalability, and business growth.
+Business platforms, portals, dashboards, workflow systems, and operational software tailored to organizational needs.
 
-### Maintenance & Support
+### Platform Modernization
 
-Ongoing updates, monitoring, and improvements to keep your platform stable, secure, and reliable.
+Legacy application upgrades, migrations, architecture improvements, performance optimization, and maintainability initiatives.
 
-### Headless CMS Development
+### Content & Publishing Platforms
 
-Flexible content platforms built with modern headless architecture for long-term control and scalability.
+Modern content-driven systems designed for scalability, discoverability, and long-term operational efficiency.
 
-### AI Solutions
+### E-Commerce Solutions
 
-AI-powered features and systems that enhance functionality and reduce manual effort.
+Commerce platforms, integrations, payment workflows, operational tooling, and performance-focused online experiences.
 
-### Business Automation
+### Automation & AI
 
-Automation that streamlines workflows, improves efficiency, and supports business operations.
-
----
-
-# Open Source Projects
-
-### Next.js SEO Starter  
-SEO-optimized Next.js starter template  
-https://github.com/sazmco/nextjs-seo-starter
-
-### Payload Next.js Starter  
-Full-stack Payload CMS + Next.js starter template  
-https://github.com/sazmco/payload-nextjs-starter
-
-### SazM Templates  
-Modern dashboard and landing templates  
-https://github.com/sazmco/sazm-templates
+Workflow automation, content automation, system integrations, and AI-assisted business processes.
 
 ---
 
-# Technology Stack
+## Experience
 
-### Frontend  
-Next.js • React • Tailwind CSS • TypeScript  
-
-### Backend  
-Node.js • PHP • Payload CMS  
-
-### Databases  
-PostgreSQL • MySQL • MongoDB • Redis  
-
-### Infrastructure  
-AWS • Cloudflare • Docker • Google Cloud • Nginx • Vercel  
+* 20+ Years Engineering Experience
+* 100+ Production Systems Delivered
+* Multiple Industries Served
+* End-to-End Platform Ownership
+* Long-Term Maintenance & Support
 
 ---
 
-# Engineering Principles
+## Industry Experience
 
-- Performance-first architecture  
-- Scalable system design  
-- Secure and stable systems  
-- Automation-driven workflows  
-- Long-term maintainability  
+Solutions delivered across:
 
----
-
-# Work With SazM
-
-If your website is slow, unstable, or hard to scale — it can be fixed properly.
-
-👉 https://sazm.in
-
-📧 contact@sazm.in
+* Healthcare & Wellness
+* E-Commerce & Retail
+* Education & Learning
+* Real Estate & Property
+* Media & Publishing
+* Professional Services
+* Nonprofit Organizations
+* Community Platforms
+* Events & Attractions
+* Business & Enterprise Systems
 
 ---
 
-**SazM**  
-Web Development • Maintenance & Support • AI Solutions • Automation
+## Engineering Principles
+
+* Long-Term Maintainability
+* Performance by Default
+* Business Outcomes First
+* Simplicity Over Complexity
+* Automation Where Practical
+* Direct Engineering Access
+
+---
+
+## Featured Platforms
+
+### SazM
+
+Modern software engineering and consulting platform.
+
+### Reelvo
+
+AI-powered content automation and publishing platform.
+
+### TrustAds
+
+Advertising management and reporting platform.
+
+---
+
+## Services
+
+* Software Engineering
+* Platform Modernization
+* Architecture Reviews
+* Performance Optimization
+* CMS Development
+* E-Commerce Development
+* API Development & Integrations
+* Maintenance & Support
+* Automation & AI Solutions
+
+---
+
+## Website
+
+https://sazm.in
+
+## Portfolio
+
+https://sazm.in/projects
+
+## Services
+
+https://sazm.in/services
+
+## Contact
+
+https://sazm.in/contact
+
+---
+
+Building reliable software, modernizing platforms, reducing technical complexity, and helping organizations operate more effectively through technology.
