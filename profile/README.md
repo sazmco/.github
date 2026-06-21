@@ -4,7 +4,7 @@ Software engineering, platform modernization, and long-term technology partnersh
 
 SazM helps organizations build, modernize, optimize, and maintain software platforms that support growth, performance, and long-term sustainability.
 
-Founded by a software engineer with 20+ years of experience delivering production systems across healthcare, e-commerce, education, media, real estate, nonprofit, and business services industries.
+Founded and led by **Saravana Bhava**, a Senior Software Engineer with **20+ years of experience** delivering production software systems across healthcare, e-commerce, education, media, real estate, nonprofit, and business services industries.
 
 🌐 https://sazm.in
 
@@ -72,7 +72,7 @@ Solutions delivered across:
 
 ---
 
-## Featured Platforms
+## Featured Initiatives
 
 ### SazM
 
@@ -99,6 +99,15 @@ Advertising management and reporting platform.
 * API Development & Integrations
 * Maintenance & Support
 * Automation & AI Solutions
+
+---
+
+## Working Model
+
+* Direct access to the engineer doing the work
+* No account managers
+* No outsourced development
+* Long-term platform ownership and support
 
 ---
 
