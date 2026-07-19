@@ -57,7 +57,7 @@ Reusable libraries, internal frameworks, automation, and open-source utilities.
 
 ### 🚀 AI Dev OS
 
-AI-powered software engineering workflow platform.
+AI-powered platform for planning, building, reviewing, and managing software engineering workflows.
 
 ### 🌐 SazM
 
@@ -99,4 +99,4 @@ https://sazm.in/contact
 
 ---
 
-> **Building software that remains reliable, maintainable, and valuable long after deployment.**
+> **Engineering software that remains reliable, maintainable, and valuable for years—not just until the next release.**
