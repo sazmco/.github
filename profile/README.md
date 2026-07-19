@@ -1,14 +1,14 @@
 # SazM
 
-Independent software engineering practice focused on designing, modernizing, and maintaining production software systems.
+**Software Engineering • Software Architecture • Platform Modernization • Technical Leadership**
 
-SazM publishes production software, engineering tooling, reusable frameworks, documentation, and open-source projects built through real-world engineering experience.
+SazM is an independent software engineering practice focused on designing, modernizing, and maintaining production software systems.
 
-Our work emphasizes software architecture, platform modernization, technical leadership, long-term maintainability, and practical engineering solutions.
+We build production software, engineering tools, AI-powered developer workflows, reusable frameworks, and open-source projects based on real-world engineering experience.
 
 ---
 
-# Focus Areas
+## Focus Areas
 
 - Software Engineering
 - Software Architecture
@@ -17,139 +17,86 @@ Our work emphasizes software architecture, platform modernization, technical lea
 - AI Engineering
 - Systems Integration
 - Performance Engineering
-- Cloud & Edge Platforms
-- Long-Term Maintainability
+- Cloud & Edge Computing
 
 ---
 
-# What We Build
+## What We Build
 
-## Production Software
+### Production Software
 
-Business-critical software systems engineered for reliability, scalability, and long-term maintainability.
+Scalable, maintainable, and production-ready software systems built for long-term business value.
 
-## Platform Modernization
+### Platform Modernization
 
-Modernizing legacy platforms through architectural improvements, incremental migration strategies, and technical debt reduction.
+Modernizing legacy platforms through architecture improvements, incremental migration, and technical debt reduction.
 
-## Engineering Tooling
+### AI Engineering
 
-Reusable libraries, developer tools, automation workflows, and internal engineering frameworks.
+AI-powered engineering workflows, intelligent automation, developer productivity tools, and workflow orchestration.
 
-## AI Engineering
+### Engineering Tooling
 
-AI-assisted development tools, workflow automation, intelligent integrations, and engineering productivity platforms.
-
-## Open Source
-
-Engineering utilities, reference implementations, documentation, and reusable components released to the community.
+Reusable libraries, internal frameworks, automation, and open-source utilities.
 
 ---
 
-# Engineering Principles
+## Engineering Principles
 
 - Architecture before implementation
 - Simplicity over complexity
-- Performance by default
-- Long-term maintainability
-- Automation where practical
+- Performance by design
+- Maintainability by default
+- Automation where it adds value
 - Engineering decisions should reduce long-term complexity
 - Business outcomes through sound engineering
 
 ---
 
-# Featured Projects
+## Featured Projects
 
-## SazM
+### 🚀 AI Dev OS
 
-Software engineering practice and consulting platform.
+AI-powered software engineering workflow platform.
 
-## AI Dev OS
+### 🌐 SazM
 
-AI-powered engineering workflow platform for planning, executing, reviewing, and managing software delivery.
+Software engineering, architecture, modernization, and technical leadership.
 
-## Reelvo
+### 📂 Project Showcase
+
+100+ production software systems, architecture case studies, and engineering highlights.
+
+### 🎬 Reelvo
 
 AI-powered content automation and publishing platform.
 
-## TrustAds
+### 📊 TrustAds
 
 Advertising management and reporting platform.
 
 ---
 
-# Technology
+## Connect
 
-## Architecture
-
-- Software Architecture
-- System Design
-- Platform Modernization
-
-## Frontend
-
-- React
-- Next.js
-- Astro
-- TypeScript
-
-## Backend
-
-- Node.js
-- PHP
-- Laravel
-- REST APIs
-
-## Data
-
-- PostgreSQL
-- MySQL
-- MongoDB
-- Redis
-
-## Infrastructure
-
-- Cloudflare
-- AWS
-- Vercel
-- Docker
-- CI/CD
-
-## AI Engineering
-
-- OpenAI
-- Workflow Automation
-- AI-Assisted Development
-- Intelligent Integrations
-
----
-
-# Engineering Practice
-
-🌐 Website
-
+🌐 Website  
 https://sazm.in
 
-## Case Studies
-
-https://sazm.in/case-studies
-
-## Projects
-
+📂 Projects  
 https://sazm.in/projects
 
-## Engineering Insights
+📖 Case Studies  
+https://sazm.in/case-studies
 
+✍️ Engineering Insights  
 https://sazm.in/articles
 
-## Services
-
+🛠 Services  
 https://sazm.in/services
 
-## Contact
-
+📬 Contact  
 https://sazm.in/contact
 
 ---
 
-SazM exists to help organizations build, modernize, and maintain software platforms that remain reliable, adaptable, and valuable for years—not just until the next release.
+> **Building software that remains reliable, maintainable, and valuable long after deployment.**
