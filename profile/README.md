@@ -1,123 +1,146 @@
 # SazM
 
-Software engineering, platform modernization, and long-term technology partnerships.
+Independent software engineering practice focused on designing, modernizing, and maintaining production software systems.
 
-SazM helps organizations build, modernize, optimize, and maintain software platforms that support growth, performance, and long-term sustainability.
+SazM publishes production software, engineering tooling, reusable frameworks, documentation, and open-source projects built through real-world engineering experience.
 
-Founded and led by **Saravana Bhava**, a Senior Software Engineer with **20+ years of experience** delivering production software systems across healthcare, e-commerce, education, media, real estate, nonprofit, and business services industries.
-
-🌐 https://sazm.in
+Our work emphasizes software architecture, platform modernization, technical leadership, long-term maintainability, and practical engineering solutions.
 
 ---
 
-## What We Do
+# Focus Areas
 
-### Custom Software Development
-
-Business platforms, portals, dashboards, workflow systems, and operational software tailored to organizational needs.
-
-### Platform Modernization
-
-Legacy application upgrades, migrations, architecture improvements, performance optimization, and maintainability initiatives.
-
-### Content & Publishing Platforms
-
-Modern content-driven systems designed for scalability, discoverability, and long-term operational efficiency.
-
-### E-Commerce Solutions
-
-Commerce platforms, integrations, payment workflows, operational tooling, and performance-focused online experiences.
-
-### Automation & AI
-
-Workflow automation, content automation, system integrations, and AI-assisted business processes.
+- Software Engineering
+- Software Architecture
+- Platform Modernization
+- Technical Leadership
+- AI Engineering
+- Systems Integration
+- Performance Engineering
+- Cloud & Edge Platforms
+- Long-Term Maintainability
 
 ---
 
-## Experience
+# What We Build
 
-* 20+ Years Engineering Experience
-* 100+ Production Systems Delivered
-* Multiple Industries Served
-* End-to-End Platform Ownership
-* Long-Term Maintenance & Support
+## Production Software
 
----
+Business-critical software systems engineered for reliability, scalability, and long-term maintainability.
 
-## Industry Experience
+## Platform Modernization
 
-Solutions delivered across:
+Modernizing legacy platforms through architectural improvements, incremental migration strategies, and technical debt reduction.
 
-* Healthcare & Wellness
-* E-Commerce & Retail
-* Education & Learning
-* Real Estate & Property
-* Media & Publishing
-* Professional Services
-* Nonprofit Organizations
-* Community Platforms
-* Events & Attractions
-* Business & Enterprise Systems
+## Engineering Tooling
+
+Reusable libraries, developer tools, automation workflows, and internal engineering frameworks.
+
+## AI Engineering
+
+AI-assisted development tools, workflow automation, intelligent integrations, and engineering productivity platforms.
+
+## Open Source
+
+Engineering utilities, reference implementations, documentation, and reusable components released to the community.
 
 ---
 
-## Engineering Principles
+# Engineering Principles
 
-* Long-Term Maintainability
-* Performance by Default
-* Business Outcomes First
-* Simplicity Over Complexity
-* Automation Where Practical
-* Direct Engineering Access
+- Architecture before implementation
+- Simplicity over complexity
+- Performance by default
+- Long-term maintainability
+- Automation where practical
+- Engineering decisions should reduce long-term complexity
+- Business outcomes through sound engineering
 
 ---
 
-## Featured Initiatives
+# Featured Projects
 
-### SazM
+## SazM
 
-Modern software engineering and consulting platform.
+Software engineering practice and consulting platform.
 
-### Reelvo
+## AI Dev OS
+
+AI-powered engineering workflow platform for planning, executing, reviewing, and managing software delivery.
+
+## Reelvo
 
 AI-powered content automation and publishing platform.
 
-### TrustAds
+## TrustAds
 
 Advertising management and reporting platform.
 
 ---
 
-## Services
+# Technology
 
-* Software Engineering
-* Platform Modernization
-* Architecture Reviews
-* Performance Optimization
-* CMS Development
-* E-Commerce Development
-* API Development & Integrations
-* Maintenance & Support
-* Automation & AI Solutions
+## Architecture
+
+- Software Architecture
+- System Design
+- Platform Modernization
+
+## Frontend
+
+- React
+- Next.js
+- Astro
+- TypeScript
+
+## Backend
+
+- Node.js
+- PHP
+- Laravel
+- REST APIs
+
+## Data
+
+- PostgreSQL
+- MySQL
+- MongoDB
+- Redis
+
+## Infrastructure
+
+- Cloudflare
+- AWS
+- Vercel
+- Docker
+- CI/CD
+
+## AI Engineering
+
+- OpenAI
+- Workflow Automation
+- AI-Assisted Development
+- Intelligent Integrations
 
 ---
 
-## Working Model
+# Engineering Practice
 
-* Direct access to the engineer doing the work
-* No account managers
-* No outsourced development
-* Long-term platform ownership and support
-
----
-
-## Website
+🌐 Website
 
 https://sazm.in
 
-## Portfolio
+## Case Studies
+
+https://sazm.in/case-studies
+
+## Projects
 
 https://sazm.in/projects
+
+## Engineering Insights
+
+https://sazm.in/articles
 
 ## Services
 
@@ -129,4 +152,4 @@ https://sazm.in/contact
 
 ---
 
-Building reliable software, modernizing platforms, reducing technical complexity, and helping organizations operate more effectively through technology.
+SazM exists to help organizations build, modernize, and maintain software platforms that remain reliable, adaptable, and valuable for years—not just until the next release.
