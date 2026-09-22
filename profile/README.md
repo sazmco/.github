@@ -1,102 +1,41 @@
-# SazM
+# SazM | Autonomous Software Delivery
 
-**Software Engineering • Software Architecture • Platform Modernization • Technical Leadership**
+**Senior software engineering for web platforms, custom applications, AI systems, and legacy modernization [source: 5].** 
 
-SazM is an independent software engineering practice focused on designing, modernizing, and maintaining production software systems.
+We deliver software with AI-assisted velocity, backed by 20+ years of principal engineering oversight [source: 5]. SazM operates on a strict **written-first** basis [source: 5]. We diagnose problems and deliver fixed-scope technical blueprints before writing a line of code, requiring **zero sales calls** [source: 5].
 
-We build production software, engineering tools, AI-powered developer workflows, reusable frameworks, and open-source projects based on real-world engineering experience.
-
----
-
-## Focus Areas
-
-- Software Engineering
-- Software Architecture
-- Platform Modernization
-- Technical Leadership
-- AI Engineering
-- Systems Integration
-- Performance Engineering
-- Cloud & Edge Computing
+[Website](https://sazm.in) • [Describe Your Project](https://sazm.in/start) • [Case Studies](https://sazm.in/case-studies) • [Articles](https://sazm.in/articles)
 
 ---
 
-## What We Build
+### ⚙️ The Autonomous Delivery Pipeline
+Every engagement follows a structured progression from written requirement to verified production software [source: 5]:
 
-### Production Software
-
-Scalable, maintainable, and production-ready software systems built for long-term business value.
-
-### Platform Modernization
-
-Modernizing legacy platforms through architecture improvements, incremental migration, and technical debt reduction.
-
-### AI Engineering
-
-AI-powered engineering workflows, intelligent automation, developer productivity tools, and workflow orchestration.
-
-### Engineering Tooling
-
-Reusable libraries, internal frameworks, automation, and open-source utilities.
+1. **Discover (AI Intake):** Written requirement brief analyzed and ambiguities clarified [source: 5].
+2. **Architect (Principal Gate):** Formal specification, technical blueprint, and milestone plan established by a Principal Architect [source: 5].
+3. **Execute (Stack-Agnostic):** Engineering across web, edge, and cloud platforms [source: 5].
+4. **Verify (Continuous QA):** Automated test suites, security checks, and code review [source: 5].
+5. **Deliver (Guaranteed Release):** Production deployment with founder sign-off and knowledge capture [source: 5].
 
 ---
 
-## Engineering Principles
+### 🛠 Core Engineering Services
 
-- Architecture before implementation
-- Simplicity over complexity
-- Performance by design
-- Maintainability by default
-- Automation where it adds value
-- Engineering decisions should reduce long-term complexity
-- Business outcomes through sound engineering
+*   **Build:** Custom SaaS platforms, high-performance websites, and modern web applications [source: 5].
+*   **Fix:** Root-cause debugging, database performance bottlenecks, and production error elimination [source: 5].
+*   **Improve:** Third-party API integrations, payment gateways, and AI workflow automation [source: 5].
+*   **Modernize:** Legacy system refactoring, monolith decoupling, and Cloudflare Edge migrations [source: 5].
 
----
-
-## Featured Projects
-
-### 🚀 AI Dev OS
-
-AI-powered platform for planning, building, reviewing, and managing software engineering workflows.
-
-### 🌐 SazM
-
-Software engineering, architecture, modernization, and technical leadership.
-
-### 📂 Project Showcase
-
-100+ production software systems, architecture case studies, and engineering highlights.
-
-### 🎬 Reelvo
-
-AI-powered content automation and publishing platform.
-
-### 📊 TrustAds
-
-Advertising management and reporting platform.
+**Production Stack:** Cloudflare Workers, Next.js, Astro, React, TypeScript, Python, PostgreSQL, MySQL, and Laravel [source: 5].
 
 ---
 
-## Connect
+### 🚀 Engagement Models
 
-🌐 Website  
-https://sazm.in
+| Model | Best For | Typical Duration |
+| :--- | :--- | :--- |
+| **Focused Build & Sprint** | Bug fixes, API integrations, features, and AI implementations [source: 5]. | 1–3 weeks [source: 5] |
+| **Diagnostic & Architecture** | Architecture reviews, performance audits, and remediation roadmaps [source: 5]. | 1–2 weeks [source: 5] |
+| **Product & Platform** | End-to-end web applications, custom business systems, and legacy modernization [source: 5]. | 1–3 months [source: 5] |
 
-📂 Projects  
-https://sazm.in/projects
-
-📖 Case Studies  
-https://sazm.in/case-studies
-
-✍️ Engineering Insights  
-https://sazm.in/articles
-
-🛠 Services  
-https://sazm.in/services
-
-📬 Contact  
-https://sazm.in/contact
-
----
-
-> **Engineering software that remains reliable, maintainable, and valuable for years—not just until the next release.**
+👉 **Describe your project at [sazm.in/start](https://sazm.in/start) to receive a clear written scope and technical next steps [source: 5].**
