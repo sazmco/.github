@@ -1,41 +1,43 @@
-# SazM | Autonomous Software Delivery
+# SazM | Autonomous Software Delivery & Systems Architecture
 
-**Senior software engineering for web platforms, custom applications, AI systems, and legacy modernization [source: 5].** 
+**Principal software engineering for business-critical web platforms, custom applications, edge architectures, and legacy modernization.**
 
-We deliver software with AI-assisted velocity, backed by 20+ years of principal engineering oversight [source: 5]. SazM operates on a strict **written-first** basis [source: 5]. We diagnose problems and deliver fixed-scope technical blueprints before writing a line of code, requiring **zero sales calls** [source: 5].
+We deliver software with AI-accelerated velocity, backed by **20+ years of principal engineering oversight** and over **106 production systems shipped**. SazM operates on a strict **written-first, zero-sales-calls** delivery model: we diagnose problems and deliver a fixed-scope technical blueprint before writing a single line of code.
 
-[Website](https://sazm.in) • [Describe Your Project](https://sazm.in/start) • [Case Studies](https://sazm.in/case-studies) • [Articles](https://sazm.in/articles)
+[Website](https://sazm.in) • [Submit Project Brief](https://sazm.in/contact) • [Portfolio & Case Studies](https://sazm.in/portfolio) • [Architecture Teardowns](https://sazm.in/articles) • [Free System Audit](https://sazm.in/audit)
 
 ---
 
 ### ⚙️ The Autonomous Delivery Pipeline
-Every engagement follows a structured progression from written requirement to verified production software [source: 5]:
 
-1. **Discover (AI Intake):** Written requirement brief analyzed and ambiguities clarified [source: 5].
-2. **Architect (Principal Gate):** Formal specification, technical blueprint, and milestone plan established by a Principal Architect [source: 5].
-3. **Execute (Stack-Agnostic):** Engineering across web, edge, and cloud platforms [source: 5].
-4. **Verify (Continuous QA):** Automated test suites, security checks, and code review [source: 5].
-5. **Deliver (Guaranteed Release):** Production deployment with founder sign-off and knowledge capture [source: 5].
+Every client engagement follows a structured progression from written requirement to verified production software:
+
+1. **Discover (Written Brief Intake):** Written requirements analyzed and ambiguities clarified asynchronously.
+2. **Architect (Principal Review Gate):** Formal specification, technical blueprint, and milestone criteria established by a Principal Architect.
+3. **Execute (Sequential Delivery):** Stack-agnostic engineering with a strict 1-task Work-In-Progress limit and 24–48h SLA turnaround.
+4. **Verify (Continuous QA Gates):** Automated test suites, edge sandboxes, security checks, and peer code reviews.
+5. **Deliver (Production Release):** Pull request merge, ephemeral preview verification, and documented release notes.
 
 ---
 
 ### 🛠 Core Engineering Services
 
-*   **Build:** Custom SaaS platforms, high-performance websites, and modern web applications [source: 5].
-*   **Fix:** Root-cause debugging, database performance bottlenecks, and production error elimination [source: 5].
-*   **Improve:** Third-party API integrations, payment gateways, and AI workflow automation [source: 5].
-*   **Modernize:** Legacy system refactoring, monolith decoupling, and Cloudflare Edge migrations [source: 5].
+* **Build:** Custom SaaS platforms, high-performance web applications, and customer portals.
+* **Fix:** Root-cause debugging, relational database performance tuning, and production error elimination.
+* **Modernize:** Monolith refactoring, Strangler Fig pattern migrations, and Cloudflare Edge transitions.
+* **Integrate:** Payment gateways (Cashfree, PayPal, Stripe), automated B2B invoicing, and webhook idempotency pipelines.
 
-**Production Stack:** Cloudflare Workers, Next.js, Astro, React, TypeScript, Python, PostgreSQL, MySQL, and Laravel [source: 5].
+**Production Stack:** Cloudflare Workers (V8 Isolates), D1 SQLite, Next.js, Astro, React, TypeScript, Python, PostgreSQL, MySQL, Docker, and Linux.
 
 ---
 
 ### 🚀 Engagement Models
 
-| Model | Best For | Typical Duration |
+| Model | Best For | Delivery Rhythm |
 | :--- | :--- | :--- |
-| **Focused Build & Sprint** | Bug fixes, API integrations, features, and AI implementations [source: 5]. | 1–3 weeks [source: 5] |
-| **Diagnostic & Architecture** | Architecture reviews, performance audits, and remediation roadmaps [source: 5]. | 1–2 weeks [source: 5] |
-| **Product & Platform** | End-to-end web applications, custom business systems, and legacy modernization [source: 5]. | 1–3 months [source: 5] |
+| **Development-as-a-Service (DaaS)** | Continuous feature delivery, rapid bug fixes, and API integrations | 24–48h turnaround per task · 1-task WIP limit · Pause/cancel anytime |
+| **Diagnostic & Architecture Audit** | Deep-dive code reviews, performance bottleneck analysis, and remediation roadmaps | 1–2 weeks fixed scope |
+| **Platform Modernization** | End-to-end monolithic decoupling, database re-indexing, and edge migrations | 1–3 months milestone-based |
 
-👉 **Describe your project at [sazm.in/start](https://sazm.in/start) to receive a clear written scope and technical next steps [source: 5].**
+👉 **Submit your project brief at [sazm.in/contact](https://sazm.in/contact) (or [sazm.in/start](https://sazm.in/start)) to receive a clear written scope and technical estimate.**  
+*Direct Contact:* [hello@sazm.in](mailto:hello@sazm.in)
