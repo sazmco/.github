@@ -1,3 +1,9 @@
+<p align="center">
+  <a href="https://sazm.in">
+    <img src="https://sazm.in/og-image.png" alt="SazM — Senior Development-as-a-Service on Subscription" width="100%" />
+  </a>
+</p>
+
 # SazM | Autonomous Software Delivery & Systems Architecture
 
 **Principal software engineering for business-critical web platforms, custom applications, edge architectures, and legacy modernization.**
@@ -48,6 +54,8 @@ Every client engagement follows a structured progression from written requiremen
 
 * **Founder & Principal Engineer:** [Saravana Bhava (@saravana-bhava)](https://github.com/saravana-bhava)
 * **Founder LinkedIn:** [linkedin.com/in/saravana-bhava](https://www.linkedin.com/in/saravana-bhava)
+* **Company LinkedIn:** [linkedin.com/company/sazmco](https://www.linkedin.com/company/sazmco)
 * **Company X / Twitter:** [@sazmco](https://x.com/sazmco)
+* **YouTube:** [@sazmco](https://www.youtube.com/@sazmco)
 * **Founder X / Twitter:** [@saravana_bhava_](https://x.com/saravana_bhava_)
 * **Tech Org Profile:** [github.com/sazmtech](https://github.com/sazmtech)
