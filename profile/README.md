@@ -46,7 +46,7 @@ Every client engagement follows a structured progression from written requiremen
 | **Platform Modernization** | End-to-end monolithic decoupling, database re-indexing, and edge migrations | 1–3 months milestone-based |
 
 👉 **Submit your project brief at [sazm.in/contact](https://sazm.in/contact) (or [sazm.in/start](https://sazm.in/start)) to receive a clear written scope and technical estimate.**  
-*Direct Contact:* [hello@sazm.in](mailto:hello@sazm.in) | +91 93805 96836
+*Direct Contact:* [hello@sazm.in](mailto:hello@sazm.in)
 
 ---
 
