@@ -8,7 +8,7 @@
 
 **Principal software engineering for business-critical web platforms, custom applications, edge architectures, and legacy modernization.**
 
-We deliver software with AI-accelerated velocity, backed by **20+ years of principal engineering oversight** and over **106 production systems shipped**. SazM operates on a strict **written-first, zero-sales-calls** delivery model: we diagnose problems and deliver a fixed-scope technical blueprint before writing a single line of code.
+We deliver software with AI-accelerated velocity, backed by **20+ years of principal engineering oversight** and over **100+ production systems shipped**. SazM operates on a strict **written-first, zero-sales-calls** delivery model: we diagnose problems and deliver a fixed-scope technical blueprint before writing a single line of code.
 
 [Website (sazm.in)](https://sazm.in) • [Submit Project Brief](https://sazm.in/contact) • [Portfolio & Case Studies](https://sazm.in/portfolio) • [Architecture Teardowns](https://sazm.in/articles) • [Free System Audit](https://sazm.in/audit) • [X / Twitter (@sazmco)](https://x.com/sazmco)
 
@@ -41,7 +41,7 @@ Every client engagement follows a structured progression from written requiremen
 
 | Model | Best For | Delivery Rhythm |
 | :--- | :--- | :--- |
-| **Development-as-a-Service (DaaS)** | Continuous feature delivery, rapid bug fixes, and API integrations | 24–48h turnaround per task · 1-task WIP limit · Flat $2,000 / ₹200,000/mo · Pause/cancel anytime |
+| **Development-as-a-Service (DaaS)** | Continuous feature delivery, rapid bug fixes, and API integrations | 24–48h turnaround per task · 1-task WIP limit · $999/month (₹99,999 in India) with launch code SAZM50 · Pause/cancel anytime |
 | **Diagnostic & Architecture Audit** | Deep-dive code reviews, performance bottleneck analysis, and remediation roadmaps | 1–2 weeks fixed scope |
 | **Platform Modernization** | End-to-end monolithic decoupling, database re-indexing, and edge migrations | 1–3 months milestone-based |
 
@@ -52,7 +52,7 @@ Every client engagement follows a structured progression from written requiremen
 
 ### 🌐 Verified Channels & Profiles
 
-* **Founder & Principal Engineer:** [Saravana Bhava (@saravana-bhava)](https://github.com/saravana-bhava)
+* **Founder & Lead Developer:** [Saravana Bhava (@saravana-bhava)](https://github.com/saravana-bhava)
 * **Founder LinkedIn:** [linkedin.com/in/saravana-bhava](https://www.linkedin.com/in/saravana-bhava)
 * **Company LinkedIn:** [linkedin.com/company/sazmco](https://www.linkedin.com/company/sazmco)
 * **Company X / Twitter:** [@sazmco](https://x.com/sazmco)
