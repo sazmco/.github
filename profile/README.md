@@ -8,7 +8,7 @@
 
 **Senior full-stack development on subscription for business-critical web platforms, custom applications, edge architectures, and legacy modernization.**
 
-We deliver software with AI-accelerated velocity, backed by **20 years of production engineering oversight** and over **100+ projects in the portfolio**. SazM operates on a strict **written, asynchronous delivery** model: we diagnose problems and deliver a fixed-scope technical blueprint before writing a single line of code.
+We deliver software with AI-accelerated velocity, backed by **20+ years of production engineering oversight** and over **100+ projects in the portfolio**. SazM operates on a strict **written, asynchronous delivery** model: we diagnose problems and deliver a fixed-scope technical blueprint before writing a single line of code.
 
 [Website (sazm.in)](https://sazm.in) • [Submit Project Brief](https://sazm.in/contact) • [Portfolio & Case Studies](https://sazm.in/portfolio) • [Technical Articles](https://sazm.in/articles) • [Free System Audit](https://sazm.in/audit) • [X / Twitter (@sazmco)](https://x.com/sazmco)
 
