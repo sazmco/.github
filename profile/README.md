@@ -1,51 +1,54 @@
 <p align="center">
   <a href="https://sazm.in">
-    <img src="https://sazm.in/og-image.png" alt="SazM — Senior Development-as-a-Service on Subscription" width="100%" />
+    <img src="https://sazm.in/og-image.png" alt="SazM — Fixed-price website fixes by a 20-year senior developer" width="100%" />
   </a>
 </p>
 
-# SazM | Autonomous Software Delivery & Full-Stack Engineering
+# SazM | Fixed-Price Website Fixes & Senior Web Engineering
 
-**Senior full-stack development on subscription for business-critical web platforms, custom applications, edge architectures, and legacy modernization.**
+**Fixed-price WordPress, WooCommerce & PHP fixes: emergency fix $99 in 48h, speed fix $199, WordPress care $49/mo. 20+ years in production. No meetings.**
 
-We deliver software with AI-accelerated velocity, backed by **20+ years of production engineering oversight** and over **100+ projects in the portfolio**. SazM operates on a strict **written, asynchronous delivery** model: we diagnose problems and deliver a fixed-scope technical blueprint before writing a single line of code.
+SazM fixes WordPress, WooCommerce and PHP sites at a fixed price agreed before work starts: an emergency fix ($99, delivered within 48 hours) for a site that is down, a critical error, a broken checkout or an unpatched PHP vulnerability; a speed fix ($199) with before and after measurements; and a WordPress care plan ($49/month) with tested weekly updates, daily backups, security patching and uptime checks. Clients with a backlog continue on a monthly development plan ($999/month, one task at a time, 24–48 hour delivery per task). Everything happens in writing, no meetings.
 
-[Website (sazm.in)](https://sazm.in) • [Submit Project Brief](https://sazm.in/contact) • [Portfolio & Case Studies](https://sazm.in/portfolio) • [Technical Articles](https://sazm.in/articles) • [Free System Audit](https://sazm.in/audit) • [X / Twitter (@sazmco)](https://x.com/sazmco)
+SazM is run by Saravana Bhava, a senior full-stack developer with 20+ years of production experience (2006 – present). Before SazM, Saravana spent over 14 years as lead developer for US agency Weismann Web, whose CEO credits him with 1,000+ projects for 300+ clients.
 
----
-
-### ⚙️ The Autonomous Delivery Pipeline
-
-Every client engagement follows a structured progression from written requirement to verified production software:
-
-1. **Discover (Written Brief Intake):** Written requirements analyzed and ambiguities clarified asynchronously.
-2. **Specify (Technical Blueprint Gate):** Formal specification, technical blueprint, and milestone criteria established before code execution.
-3. **Execute (Sequential Delivery):** Stack-agnostic engineering with a strict 1-task Work-In-Progress limit and 24–48h target turnaround.
-4. **Verify (Continuous QA Gates):** Automated test suites, edge sandboxes, security checks, and peer code reviews.
-5. **Deliver (Production Release):** Pull request merge, ephemeral preview verification, and documented release notes.
+[Website (sazm.in)](https://sazm.in) • [Emergency Fix ($99)](https://sazm.in/checkout/emergency) • [Speed Fix ($199)](https://sazm.in/checkout/speed) • [WordPress Care ($49/mo)](https://sazm.in/checkout/care) • [Free Speed Audit](https://sazm.in/audit) • [Portfolio (100+ Projects)](https://sazm.in/projects) • [Technical Articles](https://sazm.in/articles)
 
 ---
 
-### 🛠 Core Engineering Services
+### ⚙️ How It Works (Strict Written Delivery)
 
-* **Build:** Custom SaaS platforms, high-performance web applications, and customer portals.
-* **Fix:** Root-cause debugging, relational database performance tuning, and production error elimination.
-* **Modernize:** Monolith refactoring, Strangler Fig pattern migrations, and Cloudflare Edge transitions.
-* **Integrate:** Payment gateways (Cashfree, PayPal, Stripe), automated B2B invoicing, and webhook idempotency pipelines.
+Every task follows a predictable progression from written intake to verified production release:
 
-**Production Stack:** Cloudflare Workers (V8 Isolates), D1 SQLite, Next.js, Astro 7, React, Preact Islands, TypeScript, Python, PostgreSQL, MySQL, Docker, and Linux.
+1. **Intake:** Submit your task and URL in writing at checkout or via email. No discovery calls or scheduling overhead.
+2. **Diagnosis & Scope:** Root cause identified, technical remedy specified, and scope locked before work begins.
+3. **Execution:** Senior engineering with a strict 24–48h delivery SLA (or within 48h for emergency fixes).
+4. **Verification Gate:** Automated unit/integration tests, staging validation, speed measurement, and security checks.
+5. **Release & Handover:** Git commit/PR merge, zero-downtime deployment, and concise written release summary.
+
+---
+
+### 🛠 Core Services & Stack
+
+* **Emergency Fixes ($99):** Site down, 500 fatal errors, broken checkout, white screen of death, or unpatched PHP vulnerability patched within 48 hours.
+* **Speed Fixes ($199):** Core Web Vitals remediation, TTFB optimization, query indexing, asset minification, and Cloudflare Edge caching with before-and-after proof.
+* **WordPress Care ($49/mo):** Tested weekly core/plugin updates, daily off-site backups, security patching, and automated 24/7 uptime monitoring.
+* **Monthly Engineering ($999/mo):** One active task at a time, 24–48 hour turnaround per task, sequential backlog execution for ongoing product roadmaps.
+
+**Production Stack:** PHP/Laravel, WordPress/WooCommerce, Shopify, Magento, TypeScript, React/Next.js, Node.js, Python, MySQL, PostgreSQL, Cloudflare Workers & Pages.
 
 ---
 
 ### 🚀 Engagement Models
 
-| Model | Best For | Delivery Rhythm |
+| Model | Deliverables & SLA | Pricing |
 | :--- | :--- | :--- |
-| **Development-as-a-Service (DaaS)** | Continuous feature delivery, rapid bug fixes, and API integrations | 24–48h delivery target per task · 1-task WIP limit · $999/month flat subscription · Pause or cancel anytime · $99 starter trial task |
-| **Diagnostic & Technical Audit** | Deep-dive code reviews, performance bottleneck analysis, and remediation roadmaps | 1–2 weeks fixed scope |
-| **Platform Modernization** | End-to-end monolithic decoupling, database re-indexing, and edge migrations | 1–3 months milestone-based |
+| **Emergency Fix** | Crash recovery, fatal errors, checkout repair, PHP security patching · 48h delivery | $99 one-time fixed price |
+| **Speed Fix** | Core Web Vitals, TTFB tuning, database indexing, edge caching · Before & after metrics | $199 one-time fixed price |
+| **WordPress Care Plan** | Tested weekly updates, daily automated backups, uptime checks, vulnerability patches | $49/month ongoing maintenance |
+| **Monthly Development Plan** | 1 active task at a time, 24–48h delivery per task, pause or cancel anytime | $999/month ongoing development |
 
-👉 **Submit your project brief at [sazm.in/contact](https://sazm.in/contact) (or [sazm.in/start](https://sazm.in/start)) to receive a clear written scope and technical estimate.**  
+👉 **Start an emergency fix or care plan directly at [sazm.in](https://sazm.in).**  
 *Direct Contact:* [hello@sazm.in](mailto:hello@sazm.in)
 
 ---
